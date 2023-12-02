@@ -2,4 +2,5 @@ body{background-color:lightpink;}
 h1{color:skyblue;background-color:pink;font-size:50px;text-align:center;font-family:impact;}
 h2{color:red;background-color:blue;font-size:40px;text-align:center;font-family:arial bold;}
 p{color:hotpink;font-size:30px;font-family:didot;}
+img{display:block;margin:auto;width:45%;height:45%;border:5px solid blue;border-radius:5px;opacity:0.8;}
 
