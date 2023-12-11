@@ -61,13 +61,13 @@ body{
 	height: auto;
 	line-height: 46px;
 	font-size: 14px;
-	background: #fff;
+	background: hot pink;
 	text-align: left;
 	color: #333;
 	top: 50%;
 	transform:translateY(-50%);
 	box-shadow: -4px 0px 5px #00000036;
-	color: #fff;
+	color: hot pink;
 	z-index: 9999;
 	padding:20px 30px 30px 30px;
 	-webkit-transition:all 0.4s ease;
@@ -115,7 +115,7 @@ body{
 	border-radius: 5px 0 0 5px;
 	background: #1A76D1;
 	text-align: center;
-	color: #fff;
+	color: hot pink;
 	top: 0;
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
@@ -128,7 +128,7 @@ body{
 	right: 15px;
 	padding: 10px 20px;
 	background: #1a76d1;
-	color: #fff;
+	color: hot pink;
 	font-size: 25px;
 	width: 45px;
 	height: 45px;
@@ -148,7 +148,7 @@ body{
 	z-index: 99998;
 	padding: 20px;
 	width: 245px;
-	background: #fff;
+	background: hot pink;
 	right: -245px;
 	text-align: left;
 	top: 30%;
@@ -172,7 +172,7 @@ body{
 	border-radius: 5px 0 0 5px;
 	background: #1A76D1;
 	text-align: center;
-	color: #fff !important;
+	color: hot pink !important;
 	top: 0;
 	cursor: pointer;
 	box-shadow: -4px 0px 5px #00000036;
@@ -243,7 +243,7 @@ body{
 	Start Header CSS 
 =====================*/
 .header{
-	background-color:#fff;
+	background-color:hot pink;
 	position:relative;
 }
 .header .navbar-collapse{
@@ -251,7 +251,7 @@ body{
 }
 /* Topbar */
 .header .topbar{
-	background-color:#fff;
+	background-color:hot pink;
 	border-bottom:1px solid #eee;
 }
 .header .topbar{
@@ -297,7 +297,7 @@ body{
 	margin-right:8px;
 }
 .header .header-inner {
-	background:#fff;
+	background:hot pink;
 	z-index:999;
 	width:100%;
 }
@@ -305,7 +305,7 @@ body{
 	margin-top:12px;
 }
 .get-quote .btn{
-	color:#fff;
+	color:hot pink;
 }
 .header .logo {
 	float: left;
@@ -381,7 +381,7 @@ body{
 	margin-top:6px;
 }
 .header .middle-header {
-	background: #fff;
+	background: hot pink;
 	padding: 20px 0px;
 }
 .header .widget-main{
@@ -411,7 +411,7 @@ body{
 	height: 40px;
 	width: 40px;
 	line-height: 40px;
-	color: #fff;
+	color: hot pink;
 	background: #1A76D1;
 	border-radius: 4px;
 	text-align: center;
@@ -430,7 +430,7 @@ body{
 }
 /* Dropdown Menu */
 .header .nav li .dropdown {
-	background: #fff;
+	background: hot pink;
 	width: 220px;
 	position: absolute;
 	left:-20px;
@@ -500,7 +500,7 @@ body{
 	display: inline-block;
 }
 .header .right-bar a {
-	color: #fff;
+	color: hot pink;
 	height: 35px;
 	width: 35px;
 	line-height: 35px;
@@ -511,7 +511,7 @@ body{
 	font-size: 12px;
 }
 .header .right-bar li a:hover{
-	color:#fff;
+	color:hot pink;
 	background:#27AE60;
 }
 .header .search-top.active .search i:before{
@@ -549,7 +549,7 @@ body{
 	transition: all 0.4s ease;
 	border-radius: 3px;
 	border: none;
-	background: #fff;
+	background: hot pink;
 	color: #2c2d3f;
 }
 .header .search-form button {
@@ -560,12 +560,12 @@ body{
 	width: 50px;
 	background: #1A76D1;
 	border: none;
-	color: #fff;
+	color: hot pink;
 	border-radius: 0 4px 4px 0;
 	border-left:1px solid transparent;
 }
 .header .search-form button:hover{
-	background:#fff;
+	background:hot pink;
 	color:#1A76D1;
 	border-color:#e6e6e6;
 }
@@ -621,7 +621,7 @@ body{
 	margin-top:30px;
 }
 .slider .single-slider .btn{
-	color:#fff;
+	color:hot pink;
 	background:#1a76d1;
 	font-weight:500;
 	display:inline-block;
@@ -633,7 +633,7 @@ body{
 }
 .slider .single-slider .btn.primary{
 	background:#2c2d3f;
-	color:#fff;
+	color:hot pink;
 }
 .slider .single-slider .btn.primary:before{
 	background:#1A76D1;
@@ -651,7 +651,7 @@ body{
 	line-height: 50px;
 	text-align: center;
 	background: #1A76D1;
-	color: #fff;
+	color: hot pink;
 	font-size: 26px;
 	position: absolute;
 	margin: 0;
@@ -663,7 +663,7 @@ body{
 }
 .slider .owl-carousel .owl-nav div:hover{
 	background:#2c2d3f;
-	color:#fff;
+	color:hot pink;
 }
 .slider .owl-carousel .owl-controls .owl-nav .owl-prev{
 	left:20px;
@@ -690,7 +690,7 @@ body{
 	Start Schedule CSS
 ===============================*/
 .schedule {
-	background: #fff;
+	background: hot pink;
 	margin: 0;
 	padding: 0;
 	height: 230px;
@@ -746,7 +746,7 @@ body{
 .schedule .single-schedule .icon i{
 	position: absolute;
 	font-size: 110px;
-	color: #fff;
+	color: hot pink;
 	 -webkit-transition: all .3s ease-out 0s;
     -moz-transition: all .3s ease-out 0s;
     -ms-transition: all .3s ease-out 0s;
@@ -760,22 +760,22 @@ body{
 }
 .schedule .single-schedule span{
 	display:block;
-	color:#fff;
+	color:hot pink;
 }
 .schedule .single-schedule h4{
 	font-size: 20px;
 	font-weight:600;
 	display:inline-block;
 	text-transform:capitalize;
-	color:#fff;
+	color:hot pink;
 	margin-top:13px;
 }
 .schedule .single-schedule p{
-	color:#fff;
+	color:hot pink;
 	margin-top:22px;
 }
 .schedule .single-schedule a {
-	color: #fff;
+	color: hot pink;
 	margin-top: 25px;
 	font-weight: 500;
 	display: inline-block;
@@ -788,7 +788,7 @@ body{
 	bottom:0;
 	height:1px;
 	width:0%;
-	background:#fff;
+	background:hot pink;
 	-webkit-transition:all 0.4s ease;
 	-moz-transition:all 0.4s ease;
 	transition:all 0.4s ease;
@@ -809,7 +809,7 @@ body{
 }
 .schedule .single-schedule .time-sidual li {
 	display: block;
-	color: #fff;
+	color: hot pink;
 	width: 100%;
 	margin-bottom:3px;
 }
@@ -878,7 +878,7 @@ body{
 }
 .Feautes .single-features:hover .signle-icon i{
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 	border-color:transparent;
 }
 .Feautes .single-features h3{
@@ -915,7 +915,7 @@ body{
 	position: absolute;
 	left: 0;
 	font-size: 62px;
-	color: #fff;
+	color: hot pink;
 	height: 70px;
 	width: 70px;
 	line-height: 67px;
@@ -923,7 +923,7 @@ body{
 	text-align: center;
 	padding: 0;
 	margin: 0;
-	border: 2px solid #fff;
+	border: 2px solid hot pink;
 	border-radius: 0px;
 	top: 50%;
 	margin-top: -35px;
@@ -934,14 +934,14 @@ body{
 }
 .fun-facts .single-fun:hover i{
 	color:#1A76D1;
-	background:#fff;
+	background:hot pink;
 	border-color:transparent;
 }
 .fun-facts .single-fun .content {
 	padding-left: 80px;
 }
 .fun-facts .single-fun span {
-	color: #fff;
+	color: hot pink;
 	font-weight: 600;
 	font-size: 30px;
 	position: relative;
@@ -953,7 +953,7 @@ body{
 	margin-bottom: 7px;
 }
 .fun-facts .single-fun p{
-	color:#fff;
+	color:hot pink;
 	font-size:15px;
 }
 /*===================
@@ -997,7 +997,7 @@ body{
 	line-height:15px;
 	text-align:center;
 	background:#1a76d1;
-	color:#fff;
+	color:hot pink;
 	font-size:14px;
 	border-radius:100%;
 	padding-left:2px;
@@ -1005,7 +1005,7 @@ body{
 }
 /* Start Faq CSS */
 .why-choose{
-	background:#fff;
+	background:hot pink;
 }
 .why-choose .choose-right{
 	height:100%;
@@ -1017,7 +1017,7 @@ body{
 	position:relative;
 }
 .why-choose .choose-right .video {
-	color: #fff;
+	color: hot pink;
 	height: 70px;
 	width: 70px;
 	line-height: 70px;
@@ -1039,7 +1039,7 @@ body{
 	position: absolute;
 	width: 200px;
 	height: 200px;
-	background: #fff;
+	background: hot pink;
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	border-radius: 100%;
@@ -1081,21 +1081,21 @@ body{
 	padding:100px 265px;
 }
 .call-action .content h2{
-	color:#fff;
+	color:hot pink;
 	font-size:32px;
 	font-weight:600;
 	line-height:46px;
 }
 .call-action .content p {
-	color: #fff;
+	color: hot pink;
 	margin: 30px 0px;
 	font-size: 15px;
 }
 .call-action .content .btn{
-	background:#fff;
+	background:hot pink;
 	margin-right:20px;
 	font-weight:500;
-	border:1px solid #fff;
+	border:1px solid hot pink;
 	color:#1a76d1;
 }
 .call-action .content .btn:before{
@@ -1103,24 +1103,24 @@ body{
 }
 .call-action .content .btn:hover{
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 }
 .call-action .content .btn:last-child{
 	margin-right:0px;
 }
 .call-action .content .second {
-	border: 1px solid #fff;
-	color: #fff;
+	border: 1px solid hot pink;
+	color: hot pink;
 	background: transparent;
-	color: #fff !important;
+	color: hot pink !important;
 }
 .call-action .content .second:before{
-	background:#fff;
+	background:hot pink;
 }
 .call-action .content .second:hover{
 	color:#1A76D1;
 	border-color:transparent;
-	background:#fff;
+	background:hot pink;
 }
 .call-action .content .second i{
 	margin-left:10px;
@@ -1164,7 +1164,7 @@ body{
 .portfolio .single-pf .btn {
 	color: #1a76d1;
 	z-index: 3;
-	background: #fff;
+	background: hot pink;
 	position: absolute;
 	left: 50%;
 	top: 50%;
@@ -1190,7 +1190,7 @@ body{
 	visibility:visible;
 }
 .portfolio .single-pf .btn:hover{
-	color:#fff;
+	color:hot pink;
 }
 .portfolio .owl-nav{
 	display:none;
@@ -1207,7 +1207,7 @@ body{
 	height: 50px;
 	width: 50px;
 	line-height: 45px;
-	background: #fff;
+	background: hot pink;
 	color: #1A76D1;
 	position: absolute;
 	margin: 0;
@@ -1220,7 +1220,7 @@ body{
 	box-shadow: 0px 0px 10px #0000001a;
 }
 .pf-details .image-slider .owl-carousel .owl-nav div:hover{
-	color:#fff;
+	color:hot pink;
 	background:#1A76D1;
 }
 .pf-details .image-slider .owl-carousel .owl-controls .owl-nav .owl-prev{
@@ -1248,7 +1248,7 @@ body{
 }
 .pf-details .date ul li{
 	font-size:16px;
-	color:#fff;
+	color:hot pink;
 	display:inline-block;
 	margin-right:60px;
 }
@@ -1300,7 +1300,7 @@ body{
 	border-radius:50%;
 }
 .pf-details .body-text .share ul li a:hover{
-	color:#fff;
+	color:hot pink;
 	border-color:transparent;
 	background:#1A76D1;
 }
@@ -1366,7 +1366,7 @@ body{
 	line-height: 26px;
 	position: relative;
 	margin-bottom: 20px;
-	color: #fff;
+	color: hot pink;
 }
 .services-details-img blockquote i {
   position: absolute;
@@ -1419,12 +1419,12 @@ body{
 	position:relative;
 }
 .testimonials .section-title h2{
-	color:#fff;
+	color:hot pink;
 }
 .testimonials .single-testimonial {
 	text-align: left;
 	position: relative;
-	background: #fff;
+	background: hot pink;
 	padding: 40px 30px;
 	margin: 5px;
 	margin-bottom: 27px;
@@ -1485,14 +1485,14 @@ body{
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;
 	margin: 0;
-	background: #fff;
+	background: hot pink;
 	position: relative;
 }
 .testimonials .owl-dots .owl-dot span:hover{
-	background:#fff;
+	background:hot pink;
 }
 .testimonials .owl-dots .owl-dot.active span{
-	background:#fff;
+	background:hot pink;
 	width:20px;
 }
 /*=============================
@@ -1522,7 +1522,7 @@ body{
 	color:#1a76d1;
 }
 .departments .department-tab .nav li a {
-	color: #fff;
+	color: hot pink;
 	margin-top: 20px;
 	border: none;
 	padding: 0;
@@ -1592,7 +1592,7 @@ body{
 	height: 15px;
 	width: 15px;
 	line-height: 15px;
-	color: #fff;
+	color: hot pink;
 	background: #1a76d1;
 	text-align: center;
 	border-radius: 100%;
@@ -1619,7 +1619,7 @@ body{
 	position:relative;
 }
 .pricing-table .single-table {
-	background: #fff;
+	background: hot pink;
 	border:1px solid #ddd;
 	text-align: center;
 	position: relative;
@@ -1682,7 +1682,7 @@ body{
 	width: 16px;
 	line-height: 16px;
 	text-align: center;
-	color: #fff;
+	color: hot pink;
 	background: #1a76d1;
 	border-radius: 100%;
 	padding-left: 1px;
@@ -1695,13 +1695,13 @@ body{
 .pricing-table .btn {
 	padding: 12px 25px;
 	width: 100%;
-	color:#fff;
+	color:hot pink;
 }
 .pricing-table .btn:before{
 	background:#2c2d3f;
 }
 .pricing-table .btn:hover{
-	color:#fff;
+	color:hot pink;
 }
 .pricing-table .btn i {
 	font-size: 16px;
@@ -1746,16 +1746,16 @@ body{
 	position:relative;
 }
 .team.single-page{
-	background:#fff;
+	background:hot pink;
 }
 .team .section-title h2{
-	color:#fff;
+	color:hot pink;
 }
 .team .section-title p{
-	color:#fff;
+	color:hot pink;
 }
 .team .single-team {
-	background: #fff;
+	background: hot pink;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	transition: all 0.3s ease;
@@ -1775,7 +1775,7 @@ body{
 	left: 0;
 	width: 100%;
 	height: 100%;
-	background: #fff;
+	background: hot pink;
 	opacity:0;
 	visibility:hidden;
 	content: "";
@@ -1803,7 +1803,7 @@ body{
 	visibility: hidden;
 	font-weight: 400;
 	text-align: center;
-	color: #fff;
+	color: hot pink;
 	border-radius: 0;
 	-webkit-transform: scale(0.6);
 	-moz-transform: scale(0.6);
@@ -1915,7 +1915,7 @@ body{
 	font-size: 16px;
 }
 .doctor-details-area .doctor-details-left .social li a:hover{
-	color:#fff;
+	color:hot pink;
 	background:#1A76D1;
 	border-color:transparent;
 }
@@ -1994,13 +1994,13 @@ body{
 	Start Blog CSS
 =========================*/
 .blog{
-	background:#fff;
+	background:hot pink;
 }
 .blog .blog-title{
 	text-align:center;
 }
 .blog .single-news {
-	background: #fff;
+	background: hot pink;
 	position: relative;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
@@ -2021,7 +2021,7 @@ body{
 }
 .blog .single-news .news-content {
 	text-align: left;
-	background: #fff;
+	background: hot pink;
 	z-index: 99;
 	position: relative;
 	padding: 30px;
@@ -2072,7 +2072,7 @@ body{
 	font-size: 14px;
 	margin-bottom: 5px;
 	background: #1A76D1;
-	color: #fff;
+	color: hot pink;
 	padding: 4px 15px;
 	border-radius: 3px;
 	font-size: 14px;
@@ -2083,14 +2083,14 @@ body{
 }
 /* Blog Sidebar */
 .main-sidebar {
-	background: #fff;
+	background: hot pink;
 	margin-top: 30px;
 	background: transparent;
 }
 .main-sidebar .single-widget {
 	margin-bottom: 30px;
 	padding: 40px;
-	background: #fff;
+	background: hot pink;
 	-webkit-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.10);
 	-moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.10);
 	box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.10);
@@ -2103,7 +2103,7 @@ body{
 	text-transform: capitalize;
 	margin-bottom: 30px;
 	display: block;
-	background: #fff;
+	background: hot pink;
 	padding-left: 12px;
 }
 .main-sidebar .single-widget .title::before {
@@ -2150,7 +2150,7 @@ body{
 	text-align: center;
 	border: none;
 	font-size: 14px;
-	color: #fff;
+	color: hot pink;
 	background: #333;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
@@ -2159,7 +2159,7 @@ body{
 }
 .main-sidebar .search .button:hover {
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 }
 /* Category List */
 .main-sidebar .categor-list {
@@ -2256,7 +2256,7 @@ body{
 	margin-bottom: 20px;
 }
 .main-sidebar .side-tags .tag li a {
-	background: #fff;
+	background: hot pink;
 	color: #333;
 	padding: 8px 14px;
 	text-transform: capitalize;
@@ -2266,7 +2266,7 @@ body{
 	border-radius: 4px;
 }
 .main-sidebar .side-tags .tag a:hover{
-	color:#fff;
+	color:hot pink;
 	background:#1A76D1;
 	border-color:transparent;
 }
@@ -2277,7 +2277,7 @@ body{
 }
 .news-single .single-main {
 	margin-top: 30px;
-	background: #fff;
+	background: hot pink;
 	padding: 30px;
 	-webkit-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.10);
 	-moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.10);
@@ -2302,7 +2302,7 @@ body{
 }
 /* Blog Meta */
 .news-single{
-	background:#fff;
+	background:hot pink;
 }
 .news-single .meta {
 	overflow: hidden;
@@ -2384,7 +2384,7 @@ body{
 	opacity: 0.9;
 }
 .news-single .news-text blockquote p {
-	color: #fff;
+	color: hot pink;
 	margin: 0;
 	line-height: 26px;
 	font-size: 15px;
@@ -2421,7 +2421,7 @@ body{
 .news-single .social-share li a {
 	padding: 10px 20px;
 	display: block;
-	color: #fff;
+	color: hot pink;
 }
 .news-single .social-share li a:hover{
 	background:#2B343E;
@@ -2450,7 +2450,7 @@ body{
 	border-radius: 4px;
 }
 .news-single .prev-next li a:hover{
-	color:#fff;
+	color:hot pink;
 	background:#1A76D1;
 	border-color:transparent;
 }
@@ -2477,7 +2477,7 @@ body{
 .news-single .single-comments {
 	overflow: hidden;
 	margin-bottom: 30px;
-	background: #fff;
+	background: hot pink;
 	border-bottom: 1px solid #eee;
 	padding-bottom: 30px;
 }
@@ -2565,17 +2565,17 @@ body{
 	text-transform: capitalize;
 	font-size: 13px;
 	font-weight: 400;
-	color: #fff;
+	color: hot pink;
 	padding: 3px 15px;
 	display: inline-block;
 	margin-top: 10px;
 	border-radius: 4px;
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 }
 .news-single .single-comments a:hover{
 	background:#2c2d3f;
-	color:#fff;
+	color:hot pink;
 }
 .news-single .single-comments a i{
 	margin-right:5px;
@@ -2670,7 +2670,7 @@ body{
 	text-transform: uppercase;
 	display: block;
 	border: 0px solid;
-	color: #fff;
+	color: hot pink;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
@@ -2683,7 +2683,7 @@ body{
 .news-single .form-group .button i{
 	position:relative;
 	display:inline-block;
-	color:#fff;
+	color:hot pink;
 	margin-right:10px;
 	padding:0px;
 }
@@ -2692,15 +2692,15 @@ body{
 	text-align: left;
 }
 .news-single .form-group.button .btn{
-	background:#fff;
+	background:hot pink;
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 }
 .news-single .form-group.button .btn:hover{
-	color:#fff;
+	color:hot pink;
 }
 .news-single .form-group.button .btn i {
-	color: #fff;
+	color: hot pink;
 	position: relative;
 	top: 0;
 	left: 0;
@@ -2717,11 +2717,11 @@ body{
 	Start Appointment CSS
 ============================*/
 .appointment{
-	background:#fff;
+	background:hot pink;
 	padding-top:100px;
 }
 .appointment.single-page {
-	background: #fff;
+	background: hot pink;
 	padding-top: 100px 0;
 	padding: 0;
 	padding: 100px 0;
@@ -2793,7 +2793,7 @@ body{
 	font-weight:400;
 }
 .appointment .form-group .list li:hover {
-	color:#fff;
+	color:hot pink;
 	background: #1A76D1;
 }
 .appointment .appointment-image{}
@@ -2804,7 +2804,7 @@ body{
 	font-weight:500;
 }
 .appointment .button .btn:hover{
-	color:#fff;
+	color:hot pink;
 }
 .appointment .form p{
 	margin-top: 10px;
@@ -2821,7 +2821,7 @@ body{
 	display: block;
 	font-weight:600;
 	margin-bottom: 20px;
-	color:#fff;
+	color:hot pink;
 }
 .appointment.single-page .time-sidual{
 	margin-top:15px;
@@ -2831,7 +2831,7 @@ body{
 }
 .appointment.single-page .time-sidual li {
 	display: block;
-	color: #fff;
+	color: hot pink;
 	width: 100%;
 	margin-bottom: 10px;
 }
@@ -2927,13 +2927,13 @@ body{
 .login .form .btn {
 	display: inline-block;
 	margin-right: 10px;
-	color: #fff;
+	color: hot pink;
 	line-height: 20px;
 	width:100%;
 }
 .login .form .btn:hover{
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 }
 .login .login-form .checkbox {
 	text-align: left;
@@ -3082,13 +3082,13 @@ body{
 .register .form .btn {
 	display: inline-block;
 	margin-right: 10px;
-	color: #fff;
+	color: hot pink;
 	line-height: 20px;
 	width:100%;
 }
 .register .form .btn:hover{
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 }
 .register .register-form .checkbox {
 	text-align: left;
@@ -3188,12 +3188,12 @@ body{
 	font-weight: 400;
 	padding: 15px 0 15px 18px;
 	border-radius: 0;
-	background: #fff;
+	background: hot pink;
 	color: #333;
 	border: 1px solid #eee;
 }
 .accordion a:hover {
-  color:#fff !important;
+  color:hot pink !important;
   background:#1A76D1 !important;
 }
 .accordion a:after {
@@ -3206,7 +3206,7 @@ body{
   font-weight: 700;
 }
 .accordion a:hover:after {
-  color: #fff !important;
+  color: hot pink !important;
 }
 .accordion li {
   position: relative;
@@ -3220,14 +3220,14 @@ body{
   margin-bottom: 0;
 }
 .accordion li a.active {
-  color: #ffffff;
+  color: hot pinkfff;
   background-color: #1A76D1;
   border: 1px solid #1A76D1;
 }
 .accordion li a.active:after {
   content: "-";
   font-size: 25px;
-  color: #ffffff;
+  color: hot pinkfff;
 }
 /*=====================
    End Faq CSS
@@ -3312,13 +3312,13 @@ body{
 .contact-us .form .btn {
 	display: inline-block;
 	margin-right: 10px;
-	color: #fff;
+	color: hot pink;
 	line-height: 20px;
 	width:100%;
 }
 .contact-us .form .btn:hover{
 	background:#1A76D1;
-	color:#fff;
+	color:hot pink;
 }
 .contact-us .contact-us-form .checkbox {
 	text-align: left;
@@ -3415,7 +3415,7 @@ body{
 }
 .contact-us .single-info i{
 	font-size:42px;
-	color:#fff;
+	color:hot pink;
 	position:absolute;
 	left:40px;
 }
@@ -3423,13 +3423,13 @@ body{
 	margin-left: 45px;
 }
 .contact-us .single-info .content h3{
-	color:#fff;
+	color:hot pink;
 	font-size:18px;
 	font-weight:600;
 	
 }
 .contact-us .single-info .content p{
-	color:#fff;
+	color:hot pink;
 	margin-top:5px;
 }
 /* Google Map */
@@ -3446,7 +3446,7 @@ body{
 ==========================*/ 
 .error-page {
 	text-align: center;
-	background: #fff;
+	background: hot pink;
 	border-top: 1px solid #eee;
 }
 .error-page .error-inner {
@@ -3509,7 +3509,7 @@ body{
 =============================*/ 
 .mail-seccess {
 	text-align: center;
-	background: #fff;
+	background: hot pink;
 	border-top: 1px solid #eee;
 }
 .mail-seccess .success-inner {
@@ -3533,7 +3533,7 @@ body{
 	padding: 20px 15px;
 }
 .mail-seccess .success-inner .btn{
-	color:#fff;
+	color:hot pink;
 }
 /*===========================
 	End Mail Success CSS
@@ -3566,7 +3566,7 @@ body{
 	padding: 0px 25px;
 	font-weight: 500;
 	font-size: 14px;
-	background: #fff;
+	background: hot pink;
 	font-weight:400;
 }
 .newsletter .btn {
@@ -3604,7 +3604,7 @@ body{
   z-index: 1;
 }
 .doctor-calendar-table {
-  background-color: #ffffff;
+  background-color: hot pinkfff;
   -webkit-box-shadow: 0 10px 55px 5px rgba(137, 173, 255, 0.2);
           box-shadow: 0 10px 55px 5px rgba(137, 173, 255, 0.2);
 }
@@ -3616,7 +3616,7 @@ body{
   text-align: center;
   background-color: #1A76D1;
   border: none;
-  color: #ffffff;
+  color: hot pinkfff;
   text-transform: uppercase;
   white-space: nowrap;
   font-size: 16px;
@@ -3676,13 +3676,13 @@ body{
   border-color: #1A76D1;
 }
 .doctor-calendar-table table tbody tr td:hover h3 {
-  color: #ffffff;
+  color: hot pinkfff;
 }
 .doctor-calendar-table table tbody tr td:hover span {
-  color: #ffffff;
+  color: hot pinkfff;
 }
 .doctor-calendar-table table tbody tr td:hover span.time {
-  background-color: #ffffff;
+  background-color: hot pinkfff;
   color: #1A76D1;
 }
 .doctor-calendar-table table tbody tr:last-child td {
@@ -3761,7 +3761,7 @@ body{
 }
 .about-content ul li:hover i {
   background-color: #1A76D1;
-  color: #ffffff;
+  color: hot pinkfff;
 }
 .about-content ul li:last-child {
   margin-bottom: 0;
@@ -3777,7 +3777,7 @@ body{
 }
 .single-vision-box {
   margin-bottom: 30px;
-  background-color: #ffffff;
+  background-color: hot pinkfff;
   -webkit-box-shadow: 0 10px 55px 5px rgba(137, 173, 255, 0.2);
           box-shadow: 0 10px 55px 5px rgba(137, 173, 255, 0.2);
   padding: 25px 20px;
@@ -3795,7 +3795,7 @@ body{
   line-height: 60px;
   border-radius: 100%;
   background-color: #1A76D1;
-  color: #ffffff;
+  color: hot pinkfff;
   font-size: 25px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -3831,7 +3831,7 @@ body{
   position: absolute;
   width: 100px;
   height: 100px;
-  border: 10px solid #ffffff;
+  border: 10px solid hot pinkfff;
   left: -80px;
   bottom: -80px;
   border-radius: 50%;
@@ -3848,14 +3848,14 @@ body{
   width: 100%;
 }
 .single-vision-box:hover .icon {
-  background-color: #fff;
+  background-color: hot pink;
   color: #1A76D1;
 }
 .single-vision-box:hover h3 {
-  color: #ffffff;
+  color: hot pinkfff;
 }
 .single-vision-box:hover p {
-  color: #ffffff;
+  color: hot pinkfff;
 }
 .single-vision-box:hover::after {
   left: -50px;
@@ -3951,7 +3951,7 @@ body{
 }
 .our-mission-content ul li:hover .icon {
   background-color: #1A76D1;
-  color: #ffffff;
+  color: hot pinkfff;
   border-radius: 100%;
 }
 /* End Our Mission CSS */
@@ -3999,17 +3999,17 @@ body{
 	width: 34px;
 	line-height: 34px;
 	text-align: center;
-	border: 1px solid #fff;
+	border: 1px solid hot pink;
 	text-align: center;
 	padding: 0;
 	border-radius: 100%;
 	display: block;
-	color:#fff;
+	color:hot pink;
 	font-size: 16px;
 }
 .footer .single-footer .social li a:hover{
 	color:#1A76D1;
-	background:#fff;
+	background:hot pink;
 	border-color:transparent;
 }
 .footer .single-footer .social li a i{
@@ -4027,7 +4027,7 @@ body{
 }
 .footer .single-footer.f-link li a {
 	display: block;
-	color: #fff;
+	color: hot pink;
 	text-transform: capitalize;
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
@@ -4038,7 +4038,7 @@ body{
 	padding-left:8px;
 }
 .footer .single-footer h2{
-	color:#fff;
+	color:hot pink;
 	font-size:20px;
 	font-weight:600;
 	text-transform:capitalize;
@@ -4054,7 +4054,7 @@ body{
 	bottom: 0px;
 	height: 3px;
 	width: 50px;
-	background: #fff;
+	background: hot pink;
 }
 .footer .single-footer .time-sidual{
 	margin-top:15px;
@@ -4064,7 +4064,7 @@ body{
 }
 .footer .single-footer .time-sidual li {
 	display: block;
-	color: #fff;
+	color: hot pink;
 	width: 100%;
 	margin-bottom: 5px;
 }
@@ -4077,7 +4077,7 @@ body{
 	float: right;
 }
 .footer .single-footer p{
-	color:#fff;
+	color:hot pink;
 }
 .footer .single-footer .newsletter-inner{
 	margin-top:20px;
@@ -4085,12 +4085,12 @@ body{
 }
 .footer .single-footer .newsletter-inner input {
 	background: transparent;
-	border: 1px solid #fff;
+	border: 1px solid hot pink;
 	height: 50px;
 	line-height: 42px;
 	width: 100%;
 	margin-right: 15px;
-	color: #fff;
+	color: hot pink;
 	padding-left: 18px;
 	padding-right: 70px;
 	display: inline-block;
@@ -4107,21 +4107,21 @@ body{
 }
 .footer input::-webkit-input-placeholder {
     opacity: 1;
-    color: #fff !important;
+    color: hot pink !important;
 }
 
 .footer input::-moz-placeholder {
     opacity: 1;
-    color: #fff !important;
+    color: hot pink !important;
 }
 
 .footer input::-ms-input-placeholder {
     opacity: 1;
-    color: #fff !important;
+    color: hot pink !important;
 }
 .footer input::input-placeholder {
     opacity: 1;
-    color: #fff !important;
+    color: hot pink !important;
 }
 .footer .single-footer .newsletter-inner .button {
 	position: absolute;
@@ -4130,8 +4130,8 @@ body{
 	height: 50px;
 	line-height: 50px;
 	width: 50px;
-	background: #fff;
-	border-left: 1px solid #fff;
+	background: hot pink;
+	border-left: 1px solid hot pink;
 	text-shadow: none;
 	box-shadow: none;
 	display: inline-block;
@@ -4158,10 +4158,10 @@ body{
 	text-align:center;
 }
 .footer .copyright .copyright-content p{
-	color:#fff;
+	color:hot pink;
 }
 .footer .copyright .copyright-content p a{
-	color:#fff;
+	color:hot pink;
 	font-weight:400;
 	text-decoration:underline;
 	display:inline-block;
